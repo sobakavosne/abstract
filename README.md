@@ -4,10 +4,10 @@ A summary of my expertise
 
 **Commertial Projects:**
 <br />
- - [x]  - **Aim:** Decentrilized Exchange (Atomated Market Maker, Free Telegram Open Network)<br />
-        - **Country:** USA, Russia, Ukraine<br />
-        - **Technologies:** Node, Ramda, Solidity, Monet<br />
-        - **Role:** development of deployment and compilation scripts<br />
+ - [x] - **Aim:** Decentrilized Exchange (Atomated Market Maker, Free Telegram Open Network)<br />
+      - **Country:** USA, Russia, Ukraine<br />
+      - **Technologies:** Node, Ramda, Solidity, Monet<br />
+      - **Role:** development of deployment and compilation scripts<br />
 
  - [x]  - **Aim:** Live-parser (5 servers: Main, MySQL Access, S3 Access, Scheduler, Socket)
         - **Country:** UK
