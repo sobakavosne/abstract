@@ -3,7 +3,7 @@
 A summary of my expertise
 
 **Commertial Projects:**
-  
+<br />
  - [x]  - **Aim:** Decentrilized Exchange (Atomated Market Maker, Free Telegram Open Network)<br />
         - **Country:** USA, Russia, Ukraine<br />
         - **Technologies:** Node, Ramda, Solidity, Monet<br />
