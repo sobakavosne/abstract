@@ -1,6 +1,6 @@
 ## ABSTRACT
---- 
-A summary of my expertise
+
+Summary of an expertise
 
 **Commertial Projects:**
 
@@ -29,7 +29,5 @@ A summary of my expertise
  - [x]  - Version Control - Node, Ramda, Redis (by conditions)
  - [x]  - FP Engineer task - Node, Lodash
  - [x]  - Native carousel - React, Node, Lodash, Webpack, Jest
- - [x]  - Telegram Bot - Python, OpenCV, Telegram API, Ffmpeg
-  
+ - [x]  - Telegram Bot - Python, OpenCV, Telegram API, Ffmpeg<br />
   ...
-
