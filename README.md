@@ -4,25 +4,25 @@
 
 **Commercial Projects:**
 
- - [x] **Aim:** [Decentrilized Exchange](https://github.com/lenchevskii/dex-clean) (Atomated Market Maker, Free Telegram Open Network)<br />
+- [x] **Aim:** [Decentrilized Exchange](https://github.com/lenchevskii/dex-clean) (Atomated Market Maker, Free Telegram Open Network)<br />
       **Country:** USA, Russia, Ukraine<br />
       **Technologies:** Node, Ramda, Solidity, Monet, TON Compiler, TON Environment (Virtual Machine, Development Environment)<br />
       **Role:** Development of deployment and compilation scripts<br />
       **Description:** Open Source project consisting of TON-based distributed system, independent client side and test evironment. Create wrappers for TON Compiler, decoders and JSONify tool. Learn test environment: BTC-ETH-USDT imitation, transactions through a TON Bridge connection
 
- - [x] **Aim:** [Live-parser](https://github.com/lenchevskii/massive-parser) (5 servers: Main, MySQL Access, S3 Access, Scheduler, Socket)<br />
+- [x] **Aim:** [Live-parser](https://github.com/lenchevskii/massive-parser) (5 servers: Main, MySQL Access, S3 Access, Scheduler, Socket)<br />
       **Country:** UK<br />
       **Technologies:** Node, Ramda, Ramda-Async, Monet, Web Socket, Python, Redis, MySQL, AWS S3, AWS EC2 (Ubuntu)<br />
       **Role:** Architecture, Development, Loading Expertise<br />
       **Description:** Parser with 4 Satellites (to introduce full access to microservises including remote process control with Redis and live-cheking approach using Web Socket)
 
- - [x] **Aim:** [Simple MySQL Access](https://github.com/lenchevskii/yumi-api)<br />
+- [x] **Aim:** [Simple MySQL Access](https://github.com/lenchevskii/yumi-api)<br />
       **Country:** Israel<br />
       **Technologies:** Nest.js (JS mode), MySQL, bcrypt<br />
       **Role:** Architecture, Development<br />
       **Description:** Provide an access to MySQL database, storing passwords and contacts
 
- - [x] **Aim:** [1B records generator](https://github.com/lenchevskii/generator) (R&D)<br /> 
+- [x] **Aim:** [1B records generator](https://github.com/lenchevskii/generator) (R&D)<br /> 
       **Country:** Israel<br />
       **Technologies:** Node, Ramda, Lazy, Monet, MySQL, AWS EC2 (Bitnami)<br />
       **Role:** Architecture, Development, Loading Expertise<br />
@@ -30,14 +30,14 @@
 
 **Test Projects:**
 
- - [x]   [Version Control](https://github.com/lenchevskii/knoow-data-storage-api-excercise) - Node, Ramda, Redis (by conditions)<br />
-            → Aimed to store data and be able to find versions
- - [x]   [FP Engineer task](https://github.com/lenchevskii/solve-the-word) - Node, Lodash<br />
-            → Aimed to find solutions for a proposed algorithmic task and compare them
- - [x]   [Native carousel](https://github.com/lenchevskii/visualworm) - React, Node, Lodash, Webpack, Jest<br />
-            → Aimed to steal and store Instagram posts
- - [x]   [Telegram Bot](https://github.com/lenchevskii/audio_dot_bot) - Python, OpenCV, Telegram API, Ffmpeg<br />
-            → Aimed to save and convert audio-messages and save photo containting faces using face recognition with OpenCV<br />
+- [x]   [Version Control](https://github.com/lenchevskii/knoow-data-storage-api-excercise) - Node, Ramda, Redis (by conditions)<br />
+           → Aimed to store data and be able to find versions
+- [x]   [FP Engineer task](https://github.com/lenchevskii/solve-the-word) - Node, Lodash<br />
+           → Aimed to find solutions for a proposed algorithmic task and compare them
+- [x]   [Native carousel](https://github.com/lenchevskii/visualworm) - React, Node, Lodash, Webpack, Jest<br />
+           → Aimed to steal and store Instagram posts
+- [x]   [Telegram Bot](https://github.com/lenchevskii/audio_dot_bot) - Python, OpenCV, Telegram API, Ffmpeg<br />
+           → Aimed to save and convert audio-messages and save photo containting faces using face recognition with OpenCV<br />
   ...
 
 **Commercial experience:**
