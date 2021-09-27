@@ -4,7 +4,7 @@
 
 **Commercial Projects:**
 
-- [x] -**Aim:** [Decentrilized Exchange](https://github.com/lenchevskii/dex-clean) (Atomated Market Maker, Free Telegram Open Network)<br />
+- [x] **Aim:** [Decentrilized Exchange](https://github.com/lenchevskii/dex-clean) (Atomated Market Maker, Free Telegram Open Network)<br />
       **Country:** USA, Russia, Ukraine<br />
       **Technologies:** Node, Ramda, Solidity, Monet, TON Compiler, TON Environment (Virtual Machine, Development Environment)<br />
       **Role:** Development of deployment and compilation scripts<br />
