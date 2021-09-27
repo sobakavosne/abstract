@@ -42,18 +42,18 @@
 
 **Commercial experience:**
  
- - [x] 08.2021 – 09.2021 – Node.js/Solidity Developer - [Radiance](https://radianceteam.com/)
- - [x] 02.2021 – 09.2021 – Node.js Developer – [Abiatec](http://abiatec.com/)
+ - [x] ```08.2021 – 09.2021```: Node.js/Solidity Developer - [Radiance](https://radianceteam.com/)
+ - [x] ```02.2021 – 09.2021```: Node.js Developer – [Abiatec](http://abiatec.com/)
 
 **Training experience:**
 
- - [x] 03.2019 – 01.2020 – EPAM .NET lab
- - [x] 02.2020 – 03.2020 – Algorithms with Python
- - [x] 03.2020 – 04.2020 – Haskell basics (Aachen Technical University lectures, Exercism Haskell Track)
- - [x] 04.2020 – 05.2020 – ITransition JavaScript course
- - [x] 05.2020 – 06.2020 – AI/ML basics (BelHard Academy)
- - [x] 07.2020 – 08.2020 – Basics of secure OS and Net
- - [x] 11.2020 – 01.2021 – React development
+ - [x] ```03.2019 – 01.2020```: EPAM .NET lab
+ - [x] ```02.2020 – 03.2020```: Algorithms with Python
+ - [x] ```03.2020 – 04.2020```: Haskell basics (Aachen Technical University lectures, Exercism Haskell Track)
+ - [x] ```04.2020 – 05.2020```: ITransition JavaScript course
+ - [x] ```05.2020 – 06.2020```: AI/ML basics (BelHard Academy)
+ - [x] ```07.2020 – 08.2020```: Basics of secure OS and Net
+ - [x] ```11.2020 – 01.2021```: React development
 
  **Proven education:**
 
