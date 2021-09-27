@@ -12,7 +12,7 @@ Summary of an expertise
 
  - [x] **Aim:** [Live-parser](https://github.com/lenchevskii/massive-parser) (5 servers: Main, MySQL Access, S3 Access, Scheduler, Socket)<br />
        **Country:** UK<br />
-       **Technologies:** Node, Ramda, Ramda-Async, Monet, Web Socket, Python, Redis, MySQL, AWS S3, AWS EC2<br />
+       **Technologies:** Node, Ramda, Ramda-Async, Monet, Web Socket, Python, Redis, MySQL, AWS S3, AWS EC2 (Ubuntu)<br />
        **Role:** Architecture, Development, Loading Expertise<br />
        **Description:** Parser with 4 Satellites (to introduce full access to microservises including remote process control with Redis and live-cheking approach with Web Socket) 
 
@@ -24,9 +24,9 @@ Summary of an expertise
 
  - [x] **Aim:** [1B records generator](https://github.com/lenchevskii/generator) (R&D)<br /> 
        **Country:** Israel<br />
-       **Technologies:** Node, Ramda, Lazy, Monet, MySQL, AWS EC2<br />
+       **Technologies:** Node, Ramda, Lazy, Monet, MySQL, AWS EC2 (Bitnami)<br />
        **Role:** Architecture, Development, Loading Expertise<br />
-       **Description:** Find DB benchmarks via Node.js interaction within a MySQL
+       **Description:** Find DB benchmarks via Node.js interaction with MySQL database
 
 **Test Projects:**
 
