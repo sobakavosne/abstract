@@ -2,7 +2,7 @@
 
 Summary of an expertise
 
-**Commertial Projects:**
+**Commercial Projects:**
 
  - [x] **Aim:** [Decentrilized Exchange](https://github.com/lenchevskii/dex-clean) (Atomated Market Maker, Free Telegram Open Network)<br />
        **Country:** USA, Russia, Ukraine<br />
@@ -26,7 +26,7 @@ Summary of an expertise
        **Country:** Israel<br />
        **Technologies:** Node, Ramda, Lazy, Monet, MySQL, AWS EC2<br />
        **Role:** Architecture, Development, Loading Expertise<br />
-       **Description:** Find Node.js and DB benchmarks
+       **Description:** Find DB benchmarks via Node.js interaction within a MySQL
 
 **Test Projects:**
 
@@ -37,15 +37,15 @@ Summary of an expertise
  - [x]  --- [Native carousel](https://github.com/lenchevskii/visualworm) - React, Node, Lodash, Webpack, Jest<br />
             Aimed to steal and store Instagram posts
  - [x]  --- [Telegram Bot](https://github.com/lenchevskii/audio_dot_bot) - Python, OpenCV, Telegram API, Ffmpeg<br />
-            Aimed to save and convert audio-messages, to save photo containting faces
+            Aimed to save and convert audio-messages, to save photo containting faces<br />
   ...
 
-**Commercial expirience timing:**
+**Commercial experience timing:**
  
  - [x] 08.2021 – 09.2021 – Node.js/Solidity Developer - [Radiance](https://radianceteam.com/)
  - [x] 02.2021 – 09.2021 – Node.js Developer – [Abiatec](http://abiatec.com/)
 
-**Trainig expirience timing:**
+**Training experience timing:**
 
  - [x] 03.2019 – 01.2020 – EPAM .NET lab
  - [x] 02.2020 – 03.2020 – Algorithms with Python
