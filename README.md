@@ -30,13 +30,13 @@ Summary of an expertise
 
 **Test Projects:**
 
- - [x]  --- [Version Control](https://github.com/lenchevskii/knoow-data-storage-api-excercise) - Node, Ramda, Redis (by conditions)<br />
+ - [x]  - [Version Control](https://github.com/lenchevskii/knoow-data-storage-api-excercise) - Node, Ramda, Redis (by conditions)<br />
             Aimed to store data and be able to find versions
- - [x]  --- [FP Engineer task](https://github.com/lenchevskii/solve-the-word) - Node, Lodash<br />
+ - [x]  - [FP Engineer task](https://github.com/lenchevskii/solve-the-word) - Node, Lodash<br />
             Aimed to find solutions for a proposed algorithmic task and compare them
- - [x]  --- [Native carousel](https://github.com/lenchevskii/visualworm) - React, Node, Lodash, Webpack, Jest<br />
+ - [x]  - [Native carousel](https://github.com/lenchevskii/visualworm) - React, Node, Lodash, Webpack, Jest<br />
             Aimed to steal and store Instagram posts
- - [x]  --- [Telegram Bot](https://github.com/lenchevskii/audio_dot_bot) - Python, OpenCV, Telegram API, Ffmpeg<br />
+ - [x]  - [Telegram Bot](https://github.com/lenchevskii/audio_dot_bot) - Python, OpenCV, Telegram API, Ffmpeg<br />
             Aimed to save and convert audio-messages, to save photo containting faces<br />
   ...
 
