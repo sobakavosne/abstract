@@ -30,11 +30,11 @@ Summary of an expertise
 
 **Test Projects:**
 
- - [x]  --- [Version Control](https://github.com/lenchevskii/knoow-data-storage-api-excercise) - Node, Ramda, Redis (by conditions)
+ - [x]  --- [Version Control](https://github.com/lenchevskii/knoow-data-storage-api-excercise) - Node, Ramda, Redis (by conditions)<br />
             Aimed to store data and be able to find versions
- - [x]  --- [FP Engineer task](https://github.com/lenchevskii/solve-the-word) - Node, Lodash
+ - [x]  --- [FP Engineer task](https://github.com/lenchevskii/solve-the-word) - Node, Lodash<br />
             Aimed to find solutions for a proposed algorithmic task and compare them
- - [x]  --- [Native carousel](https://github.com/lenchevskii/visualworm) - React, Node, Lodash, Webpack, Jest
+ - [x]  --- [Native carousel](https://github.com/lenchevskii/visualworm) - React, Node, Lodash, Webpack, Jest<br />
             Aimed to steal and store Instagram posts
  - [x]  --- [Telegram Bot](https://github.com/lenchevskii/audio_dot_bot) - Python, OpenCV, Telegram API, Ffmpeg<br />
             Aimed to save and convert audio-messages, to save photo containting faces
@@ -49,13 +49,14 @@ Summary of an expertise
 
  - [x] 03.2019 – 01.2020 – EPAM .NET lab
  - [x] 02.2020 – 03.2020 – Algorithms with Python
- - [x] 03.2020 – 04.2020 – Haskell basics (Aachen Technical University lectures)
+ - [x] 03.2020 – 04.2020 – Haskell basics (Aachen Technical University lectures, Exercism Haskell Track)
+ - [x] 04.2020 – 05.2020 – ITransition JavaScript course
  - [x] 05.2020 – 06.2020 – AI/ML basics (BelHard Academy)
  - [x] 07.2020 – 08.2020 – Basics of secure OS and Net
  - [x] 11.2020 – 01.2021 – React development
 
  **Proven education:**
 
- - [x] Vilnius University, Kaunas Faculty, Information Systems and Cyber Security, 2020 – 2021
+ - [x] Vilnius University, Kaunas Faculty, Information Systems and Cyber Security, 2020 – 2021 (English B1 Philological Faculty’ Certificate)
  - [x] BelHard Academy, AI: ML and NN
  - [x] Belarusian State Technological University, Organic Substances Technology Faculty, Basic organic and petrochemical synthesis, 2011 – 2016
