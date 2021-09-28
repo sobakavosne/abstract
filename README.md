@@ -8,7 +8,7 @@
       **Country:** USA, Russia, Ukraine<br />
       **Technologies:** Node, Ramda, Solidity, Monet, TON Compiler, TON Environment (Virtual Machine, Development Environment)<br />
       **Role:** Development of deployment and compilation scripts<br />
-      **Description:** Open Source project consisting of TON-based distributed system, independent client side and test evironment. Create wrappers for TON Compiler, decoders and JSONify tool. Learn test environment: BTC-ETH-USDT imitation, transactions through a TON Bridge connection
+      **Description:** Open Source project consisting of TON-based distributed system, independent client side and test evironment. Create wrappers for TON Compiler, decoders and JSONify tool. Learn test environment: BTC-ETH-USDT imitation, transactions through a TON Bridge connection, TON sharding logic
 
 - [x] -**Aim:** [Live-parser](https://github.com/lenchevskii/massive-parser) (5 servers: Main, MySQL Access, S3 Access, Scheduler, Socket)<br />
       **Country:** UK<br />
