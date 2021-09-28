@@ -14,7 +14,9 @@
       **Country:** UK<br />
       **Technologies:** Node, Ramda, Ramda-Async, Monet, Web Socket, Python, Redis, MySQL, AWS S3, AWS EC2 (Ubuntu)<br />
       **Role:** Architecture, Development, Loading Expertise<br />
-      **Description:** Parser with 4 Satellites (to introduce full access to microservises including remote process control with Redis and live-cheking approach using Web Socket)
+      **Description:** Parser with 4 Satellites (to introduce full access to microservises including remote process control with Redis and live-cheking approach using Web Socket). <br />
+      Microservices list:<br />
+            -  
 
 - [x] -**Aim:** [Simple MySQL Access](https://github.com/lenchevskii/yumi-api)<br />
       **Country:** Israel<br />
@@ -30,6 +32,8 @@
 
 **Test Projects:**
 
+- [x]   [Radiance Test Task](https://github.com/lenchevskii/radiance-test-task) - Solidity, TON Environment (TVM, TON Dev, TON Compiler)<br />
+           → Aimed to compile TON Wallet and send transaction
 - [x]   [Version Control](https://github.com/lenchevskii/knoow-data-storage-api-excercise) - Node, Ramda, Redis (by conditions)<br />
            → Aimed to store data and be able to find versions
 - [x]   [FP Engineer task](https://github.com/lenchevskii/solve-the-word) - Node, Lodash<br />
