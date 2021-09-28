@@ -14,9 +14,7 @@
       **Country:** UK<br />
       **Technologies:** Node, Ramda, Ramda-Async, Monet, Web Socket, Python, Redis, MySQL, AWS S3, AWS EC2 (Ubuntu)<br />
       **Role:** Architecture, Development, Loading Expertise<br />
-      **Description:** Parser with 4 Satellites (to introduce full access to microservises including remote process control with Redis and live-cheking approach using Web Socket). <br />
-      Microservices list:<br />
-            -  
+      **Description:** Parser with 4 Satellites (to introduce full access to microservises including remote process control with Redis and live-cheking approach using Web Socket)
 
 - [x] -**Aim:** [Simple MySQL Access](https://github.com/lenchevskii/yumi-api)<br />
       **Country:** Israel<br />
