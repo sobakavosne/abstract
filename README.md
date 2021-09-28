@@ -30,21 +30,21 @@
 
 **Test Projects:**
 
-- [x]   [Radiance Test Task](https://github.com/lenchevskii/radiance-test-task) - Solidity, TON Environment (TVM, TON Dev, TON Compiler)<br />
+- [x]   [Radiance Test Task](https://github.com/lenchevskii/radiance-test-task) – Solidity, TON Environment (TVM, TON Dev, TON Compiler)<br />
            → Aimed to compile TON Wallet and send transaction
-- [x]   [Version Control](https://github.com/lenchevskii/knoow-data-storage-api-excercise) - Node, Ramda, Redis (by conditions)<br />
+- [x]   [Version Control](https://github.com/lenchevskii/knoow-data-storage-api-excercise) – Node, Ramda, Redis (by conditions)<br />
            → Aimed to store data and be able to find versions
-- [x]   [FP Engineer task](https://github.com/lenchevskii/solve-the-word) - Node, Lodash<br />
+- [x]   [FP Engineer task](https://github.com/lenchevskii/solve-the-word) – Node, Lodash<br />
            → Aimed to find solutions for a proposed algorithmic task and compare them
-- [x]   [Native carousel](https://github.com/lenchevskii/visualworm) - React, Node, Lodash, Webpack, Jest<br />
+- [x]   [Native carousel](https://github.com/lenchevskii/visualworm) – React, Node, Lodash, Webpack, Jest<br />
            → Aimed to steal and store Instagram posts
-- [x]   [Telegram Bot](https://github.com/lenchevskii/audio_dot_bot) - Python, OpenCV, Telegram API, Ffmpeg<br />
+- [x]   [Telegram Bot](https://github.com/lenchevskii/audio_dot_bot) – Python, OpenCV, Telegram API, Ffmpeg<br />
            → Aimed to save and convert audio-messages and save photo containting faces using face recognition with OpenCV<br />
   ...
 
 **Commercial experience:**
  
- - [x] ```08.2021 – 09.2021```: Node.js/Solidity Developer - [Radiance](https://radianceteam.com/)
+ - [x] ```08.2021 – 09.2021```: Node.js/Solidity Developer – [Radiance](https://radianceteam.com/)
  - [x] ```02.2021 – 09.2021```: Node.js Developer – [Abiatec](http://abiatec.com/)
 
 **Training experience:**
