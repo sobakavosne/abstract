@@ -6,6 +6,7 @@
 
 - [x] -**Aim:** [Decentrilized Exchange](https://github.com/lenchevskii/dex-clean) (Atomated Market Maker, Free Telegram Open Network)<br />
       **Country:** USA, Russia, Ukraine<br />
+      **Domain:** DeFi<br />
       **Technologies:** Node, Ramda, Solidity, Monet, TON Compiler, TON Environment (Virtual Machine, Development Environment)<br />
       **Role:** Development of deployment and compilation scripts<br />
       **Description:** Open Source project consisting of TON-based distributed system, independent client side and test evironment. Create wrappers for TON Compiler, decoders and JSONify tool. Learn test environment: BTC-ETH-USDT imitation, transactions through a TON Bridge connection, TON sharding logic
@@ -13,17 +14,20 @@
 - [x] -**Aim:** [Live-parser](https://github.com/lenchevskii/massive-parser) (5 servers: Main, MySQL Access, S3 Access, Scheduler, Socket)<br />
       **Country:** UK<br />
       **Technologies:** Node, Ramda, Ramda-Async, Monet, Web Socket, Python, Redis, MySQL, AWS S3, AWS EC2 (Ubuntu)<br />
+      **Domain:** Beauty Sphere<br />
       **Role:** Architecture, Development, Loading Expertise<br />
       **Description:** Parser with 4 Satellites (to introduce full access to microservises including remote process control with Redis and live-cheking approach using Web Socket). Live system is designed to process 17-20k requests per day. The main limitation of the system is embedded proxy servers. The system uses MySQL gates to construct paths and address the AWS S3. Redis is used to control scheduling processes and for introducing notification channels for a socket server. Process programming is used to simplify microservices calls and processes control
 
 - [x] -**Aim:** [Simple MySQL Access](https://github.com/lenchevskii/yumi-api)<br />
       **Country:** Israel<br />
+      **Domain:** Entertainment<br />
       **Technologies:** Nest.js (JS mode), MySQL, bcrypt<br />
       **Role:** Architecture, Development<br />
       **Description:** Provide an access to MySQL database, storing passwords and contacts
 
 - [x] -**Aim:** [1B records generator](https://github.com/lenchevskii/generator) (R&D)<br /> 
       **Country:** Israel<br />
+      **Domain:** Database Research & Development<br />
       **Technologies:** Node, Ramda, Lazy, Monet, MySQL, AWS EC2 (Bitnami)<br />
       **Role:** Architecture, Development, Loading Expertise<br />
       **Description:** Find DB benchmarks via Node.js interaction with MySQL database through a loading testing
