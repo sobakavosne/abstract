@@ -18,7 +18,7 @@
       **Role:** Architecture, Development, Loading Expertise<br />
       **Description:** Parser with 4 Satellites (to introduce full access to microservises including remote process control with Redis and live-cheking approach using Web Socket). Live system is designed to process 17-20k requests per day. The main limitation of the system is embedded proxy servers. The system uses MySQL gates to construct paths and address the AWS S3. Redis is used to control scheduling processes and for introducing notification channels for a socket server. Process programming is used to simplify microservices calls and processes control
 
-- [x] -**Aim:** [Simple MySQL Access](https://github.com/lenchevskii/yumi-api)<br />
+- [x] -**Aim:** [REST API](https://github.com/lenchevskii/yumi-api)<br />
       **Country:** Israel<br />
       **Domain:** Entertainment<br />
       **Technologies:** Nest.js (JS mode), MySQL, bcrypt<br />
