@@ -1,6 +1,17 @@
 ## ABSTRACT
 
-      – Summary of an expertise
+**Commercial Experience:**
+
+ - [x] ```03.2022 – 11.2022```: Node.js Developer – [Bright Security](https://brightsec.com/)
+ - [x] ```08.2021 – 09.2021```: Node.js/Solidity Developer – [Radiance](https://radianceteam.com/)
+ - [x] ```02.2021 – 09.2021```: Node.js/Python Developer – [Abiatec](http://abiatec.com/)
+
+ **Proven education:**
+
+ - [x] Vilnius University: Information Systems and Cyber Security · 2020 – 2021
+ - [x] BelHard Academy: Artificial Intelligence basics · May 2020 – June 2020
+ - [x] EPAM Systems, .NET Intern: Internship · March 2019 – December 2019
+ - [x] Belarusian State Technological University, Chemical Engineering · 2011 – 2016
 
 **Commercial Projects:**
 
@@ -47,16 +58,3 @@
       **Technologies:** Node, Ramda, Lazy, Monet, MySQL, AWS EC2 (Bitnami)<br />
       **Role:** Architecture, Development, Loading Expertise<br />
       **Description:** Finding DB benchmarks via Node.js interaction with MySQL by the loading testing
-
-**Commercial Experience:**
-
- - [x] ```03.2022 – 11.2022```: Node.js Developer – [Bright Security](https://brightsec.com/)
- - [x] ```08.2021 – 09.2021```: Node.js/Solidity Developer – [Radiance](https://radianceteam.com/)
- - [x] ```02.2021 – 09.2021```: Node.js/Python Developer – [Abiatec](http://abiatec.com/)
-
- **Proven education:**
-
- - [x] Vilnius University: Information Systems and Cyber Security · 2020 – 2021
- - [x] BelHard Academy: Artificial Intelligence basics · May 2020 – June 2020
- - [x] EPAM Systems, .NET Intern: Internship · March 2019 – December 2019
- - [x] Belarusian State Technological University, Chemical Engineering · 2011 – 2016
