@@ -1,10 +1,10 @@
 ## ABSTRACT
 
-      – FP Engineer' summary of an expertise
+      – FP Engineer's summary of an expertise
 
 **Commercial Projects:**
 
-- [x] -**Aim:** [Decentrilized Exchange](https://github.com/lenchevskii/dex-clean) (Atomated Market Maker, Free Telegram Open Network)<br />
+- [x] -**Aim:** [Decentrilized Exchange](https://github.com/lenchevskii/dex-clean) (Automated Market Maker, Free Telegram Open Network)<br />
       **Country:** USA, Russia, Ukraine<br />
       **Domain:** DeFi<br />
       **Technologies:** Node, Ramda, Solidity, Monet, TON Compiler, TON Environment (Virtual Machine, Development Environment)<br />
@@ -16,14 +16,14 @@
       **Technologies:** Node, Ramda, Ramda-Async, Monet, Web Socket, Python, Redis, MySQL, AWS S3, AWS EC2 (Ubuntu)<br />
       **Domain:** Beauty Sphere<br />
       **Role:** Architecture, Development, Loading Expertise<br />
-      **Description:** Parser with 4 Satellites (to introduce full access to microservises including remote process control with Redis and live-cheking approach using Web Socket). Live system is designed to process 17-20k requests per day. The main limitation of the system is embedded proxy servers. The system uses MySQL gates to construct paths and address the AWS S3. Redis is used to control scheduling processes and for introducing notification channels for a socket server. Process programming is used to simplify microservices calls and processes control
+      **Description:** Parser with 4 Satellites (to introduce full access to microservices including remote process control with Redis and live-checking approach using Web Socket). A live system is designed to process 17-20k requests per day (due to proxy restrictions). The main limitation of the system is embedded proxy servers. The system uses MySQL gates to construct paths and address the AWS S3. Redis is used to control scheduling processes and for introducing notification channels for a socket server. Process programming is used to simplify microservices calls and processes control
 
 - [x] -**Aim:** [REST API](https://github.com/lenchevskii/yumi-api)<br />
       **Country:** Israel<br />
       **Domain:** Entertainment<br />
       **Technologies:** Nest.js (JS mode), MySQL, bcrypt<br />
       **Role:** Architecture, Development<br />
-      **Description:** Provide an access to MySQL database, storing passwords and contacts
+      **Description:** Provide access to MySQL database, storing passwords and contacts
 
 - [x] -**Aim:** [1B records generator](https://github.com/lenchevskii/generator) (R&D)<br /> 
       **Country:** Israel<br />
@@ -43,15 +43,15 @@
 - [x]   [Native carousel](https://github.com/lenchevskii/visualworm) – React, Node, Lodash, Webpack, Jest<br />
            → Aimed to steal and store Instagram posts
 - [x]   [Telegram Bot](https://github.com/lenchevskii/audio_dot_bot) – Python, OpenCV, Telegram API, Ffmpeg<br />
-           → Aimed to save and convert audio-messages and save photo containting faces using face recognition with OpenCV<br />
+           → Aimed to save and convert audio messages and save photos containing faces using face recognition with OpenCV<br />
   ...
 
-**Commercial experience:**
+**Commercial Experience:**
  
  - [x] ```08.2021 – 09.2021```: Node.js/Solidity Developer – [Radiance](https://radianceteam.com/)
  - [x] ```02.2021 – 09.2021```: Node.js Developer – [Abiatec](http://abiatec.com/)
 
-**Training experience:**
+**Training Experience:**
 
  - [x] ```11.2020 – 01.2021```: React development
  - [x] ```07.2020 – 08.2020```: Basics of secure OS and Net
