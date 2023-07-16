@@ -6,12 +6,19 @@
  - [x] ```08.2021 – 09.2021```: Node.js/Solidity Developer – [Radiance](https://radianceteam.com/)
  - [x] ```02.2021 – 09.2021```: Node.js/Python Developer – [Abiatec](http://abiatec.com/)
 
- **Proven education:**
+ **Education:**
 
  - [x] Vilnius University: Information Systems and Cyber Security · 2020 – 2021
  - [x] BelHard Academy: Artificial Intelligence basics · May 2020 – June 2020
  - [x] EPAM Systems, .NET Intern: Internship · March 2019 – December 2019
  - [x] Belarusian State Technological University, Chemical Engineering · 2011 – 2016
+
+ **Haskell Education:**
+ - [x] ```03.2023 – 05.2023```: Cardano Developer – [Cardano Fourth Cohort](https://github.com/lenchevskii/plutus-pioneer-program/tree/fourth-iteration)
+ - [x] ```01.2023 – 02.2023```: Haskell Developer – [Haskell Course (Pt.1)](https://stepik.org/course/75/syllabus)
+ - [x] ```11.2021 – 12.2021```: Haskell Developer – [Haskell Notes and Practice](https://github.com/lenchevskii/haskell-lectures)
+ - [x] ```04.2020 – 06.2020```: Haskell Developer – [Haskell Lectures ](https://github.com/lenchevskii/RWTH-lectures)
+
 
 **Commercial Projects:**
 
