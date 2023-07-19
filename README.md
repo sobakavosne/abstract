@@ -1,11 +1,5 @@
 ## ABSTRACT
 
-**Commercial Experience:**
-
- - [x] ```03.2022 – 11.2022```: Node.js Developer – [Bright Security](https://brightsec.com/)
- - [x] ```08.2021 – 09.2021```: Node.js/Solidity Developer – [Radiance](https://radianceteam.com/)
- - [x] ```02.2021 – 09.2021```: Node.js/Python Developer – [Abiatec](http://abiatec.com/)
-
  **Education:**
 
  - [x] Vilnius University: Information Systems and Cyber Security · 2020 – 2021
@@ -19,8 +13,7 @@
  - [x] ```11.2021 – 12.2021```: Haskell Developer – [Haskell Notes and Practice](https://github.com/lenchevskii/haskell-lectures)
  - [x] ```04.2020 – 06.2020```: Haskell Developer – [Haskell Lectures ](https://github.com/lenchevskii/RWTH-lectures)
 
-
-**Commercial Projects:**
+**Projects:**
 
 - [x] [Nexploit CLI/Nexploit Service](https://brightsec.com/) (Dynamic Application Security Testing)<br />
       **Country:** USA, Israel<br />
@@ -57,7 +50,7 @@
       **Domain:** Entertainment<br />
       **Technologies:** Nest.js (JS mode), MySQL, bcrypt<br />
       **Role:** Architecture, Development<br />
-      **Description:** Provide an access to MySQL database, store passwords and contacts
+      **Description:** Provide access to MySQL database, store passwords and contacts
 
 - [x] [1B+ records generator](https://github.com/lenchevskii/generator) (R&D)<br /> 
       **Country:** Israel<br />
@@ -65,3 +58,11 @@
       **Technologies:** Node, Ramda, Lazy, Monet, MySQL, AWS EC2 (Bitnami)<br />
       **Role:** Architecture, Development, Loading Expertise<br />
       **Description:** Finding DB benchmarks via Node.js interaction with MySQL by the loading testing
+
+
+- [x] [Ticket Management Service](https://github.com/lenchevskii/ticket-management-service) <br /> 
+      **Country:** USA<br />
+      **Domain:** Entertainment<br />
+      **Technologies:** .NET Framework, ADO.NET, JavaScript<br />
+      **Role:** Development<br />
+      **Description:** Ticket management application that provides different abilities for users
