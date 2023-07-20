@@ -63,6 +63,6 @@
 - [x] [Ticket Management Service](https://github.com/lenchevskii/ticket-management-service) <br /> 
       **Country:** USA<br />
       **Domain:** Entertainment<br />
-      **Technologies:** .NET Framework, ADO.NET, JavaScript<br />
+      **Technologies:** .NET Framework, ADO.NET, SQL Server, JavaScript<br />
       **Role:** Development<br />
       **Description:** Ticket management application that provides different abilities for users
