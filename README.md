@@ -16,9 +16,9 @@
 
 **Projects:**
 
-- [x] [Jeweler](https://brightsec.com/) (Dynamic Application Security Testing)<br />
-      **Country:** USA, Israel<br />
-      **Domain:** Cyber Security<br />
+- [x] Jeweler (Telegram Bot)<br />
+      **Country:** Poland<br />
+      **Domain:** Sales<br />
       **Technologies:** Python, CI/CD, Docker, Telethon, Google Auth Service, Redis, GCP<br />
       **Role & Responsibilities:** Technical Lead/Sr. Engineer<br />
       - The choice of technology and technical solutions<br />
