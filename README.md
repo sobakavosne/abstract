@@ -84,16 +84,16 @@
       **Technologies:** Node.js, Ramda, Ramda-Async, Monet, Web Socket, Python, Redis, MySQL, AWS S3, AWS EC2, Python (minor), Bash<br />
       **Domain:** Beauty Sphere<br />
       **Role & Responsibilities:** Software Developer with Loading Expertise<br />
-      - Developing architecture
-      - Implementing new features
-      - Embedding AI model for text recognition in videos
-      - Developing loading testing
-      - Deployment on AWS EC2
-      - Using S3 for storing files
-      - Developing MySQL database
-      - Using proxy tools to achieve video downloading
-      - Using multi-core architecture
-      - Developing API using Socket
+      - Developing architecture<br />
+      - Implementing new features<br />
+      - Embedding AI model for text recognition in videos<br />
+      - Developing loading testing<br />
+      - Deployment on AWS EC2<br />
+      - Using S3 for storing files<br />
+      - Developing MySQL database<br />
+      - Using proxy tools to achieve video downloading<br />
+      - Using multi-core architecture<br />
+      - Developing API using Socket<br />
       **Description:** Parser with 4 Satellites. The main limitation of the system is embedded proxy servers. The system uses MySQL gates to construct paths and to address the AWS S3. The system contains 5 servers, 6 single-instance microservices and 3 multi-instance microservices. AI embedding for subtitle recognition
 
 - [x] [Password Manager](https://github.com/sobakavosne/yumi-api)<br />
